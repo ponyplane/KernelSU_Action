@@ -1,4 +1,4 @@
-name: Build Kernel
+name: Build Kernel For crDroid
 on:
   watch:
     types: [started]
